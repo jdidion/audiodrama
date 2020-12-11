@@ -101,7 +101,7 @@ Also includes things like historical fantasy.
 ||Arsen|https://pinecast.com/feed/arsen|https://arsen.pinecast.co|
 ||The Blackwater Aethercast|http://lordblackwater.com/index.php/feed/podcast/|http://lordblackwater.com/index.php/news/|
 ||Bubble|https://maximumfun.org/feeds/bubble.xml|https://maximumfun.org/shows/bubble|
-||Bosh &amp; Brave|https://pinecast.com/feed/bosh-brave|http://blackmoorproductions.com/|
+||Bosh & Brave|https://pinecast.com/feed/bosh-brave|http://blackmoorproductions.com/|
 ||BRASS|https://battlegroundproductions.org/feed/podcast|https://battlegroundproductions.org/news/|
 ||D.R.E.A.M.|https://dream.libsyn.com/rss|https://dream-podcast.com|
 |⭐️|EOS 10|https://planetm.podbean.com/feed.xml|https://www.planetm.io/eos10|
@@ -110,7 +110,7 @@ Also includes things like historical fantasy.
 ||Mage and Machine fantasy sci-fi audio drama|http://www.pendantaudio.com/MandM.xml|http://www.pendantaudio.com/|
 ||Magus Elgar|https://www.spreaker.com/show/3639061/episodes/feed|https://www.spreaker.com/show/magus-elgar|
 ||Manifestations|https://podmanifest.libsyn.com/rss|http://podmanifest.libsyn.com/website|
-||Marigold&amp;apos;s Ghosts|https://marigoldsghosts.libsyn.com/rss|http://www.hauntedgriffin.com|
+||Marigold's Ghosts|https://marigoldsghosts.libsyn.com/rss|http://www.hauntedgriffin.com|
 ||Middle:Below|https://middlebelow.libsyn.com/rss|http://middlebelow.libsyn.com/website|
 ||MindFrame Podcast|https://mindframepodcast.com/feed/podcast|https://mindframepodcast.com/|
 ||Observe And Report|https://feed.podbean.com/observeandreport/feed.xml|http://www.observeandreportpodcast.com|
@@ -200,15 +200,15 @@ Also includes noir and docu-drama. Many of these have sci-fi or horror elements.
 ||Lethal Lit: A Tig Torres Mystery|https://feeds.megaphone.fm/HSW6965648156|https://eepuniverse.com/properties/lethal-lit/|
 ||Limetown|http://feeds.megaphone.fm/PPY5621646923|http://www.limetown.com/|
 ||Malevolent|https://malevolent.libsyn.com/rss|http://malevolent.libsyn.com/website|
-||Marvel&amp;apos;s Wolverine|https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/aa111a39-d482-40a9-a0eb-aadc0007d4a4/b854fe90-7996-42f5-bbc9-aadc0007d4ae/podcast.rss|https://www.wolverinepodcast.com/|
-|⭐️|Max &amp; Ivan: Fugitives|https://rss.acast.com/maxandivanfugitives|https://play.acast.com/s/maxandivanfugitives|
-||Margaret&amp;apos;s Garden|https://rss.acast.com/margarets-garden|http://margaretspodcast.com/|
-||McGillicuddy and Murder&amp;apos;s Pawn Shop|https://mcgillicuddyandmurder.libsyn.com/rss|https://www.minervasweeneywren.com/|
+||Marvel's Wolverine|https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/aa111a39-d482-40a9-a0eb-aadc0007d4a4/b854fe90-7996-42f5-bbc9-aadc0007d4ae/podcast.rss|https://www.wolverinepodcast.com/|
+|⭐️|Max & Ivan: Fugitives|https://rss.acast.com/maxandivanfugitives|https://play.acast.com/s/maxandivanfugitives|
+||Margaret's Garden|https://rss.acast.com/margarets-garden|http://margaretspodcast.com/|
+||McGillicuddy and Murder's Pawn Shop|https://mcgillicuddyandmurder.libsyn.com/rss|https://www.minervasweeneywren.com/|
 ||Mind's Eye|https://feeds.megaphone.fm/mindseye|https://www.parcast.com/mindseye/|
 ||NORA|https://www.shadeauxpublicradio.com/nora?format=rss|https://www.shadeauxpublicradio.com/nora/|
 ||Null/Void|https://pinecast.com/feed/null-void|https://pocpodcasting.wixsite.com/pocpn/nullvoid|
 ||Olive Hill|https://olivehill.podbean.com/feed.xml|https://olivehill.podbean.com|
-||Once It&amp;apos;s Begun|https://feed.pippa.io/public/shows/onceitsbegun|https://shows.acast.com/onceitsbegun|
+||Once It's Begun|https://feed.pippa.io/public/shows/onceitsbegun|https://shows.acast.com/onceitsbegun|
 ||Passenger List|https://feed.passengerlist.org/|https://www.passengerlist.org|
 ||Point Mystic|https://pointmystic.libsyn.com/rss|http://www.pointmystic.org|
 ||RABBITS|https://rabbits.libsyn.com/rss|http://rabbitspodcast.com|
@@ -221,7 +221,7 @@ Also includes noir and docu-drama. Many of these have sci-fi or horror elements.
 ||The Darkroom|https://thedarkroompodcast.libsyn.com/rss|http://thedarkroompodcast.libsyn.com/website|
 ||The Last Movie|https://thelastmovie.libsyn.com/rss|http://www.publicradioalliance.com/the-last-movie|
 ||The Disappearance of Cedar Hills|https://cedarhills.libsyn.com/rss|http://cedarhills.libsyn.com/website|
-||The Elysium Project|https://www.elysiumprojectaudio.com/?cat=1&amp;feed=podcast|https://www.spreaker.com/show/the-elysium-project|
+||The Elysium Project|https://www.elysiumprojectaudio.com/?cat=1&feed=podcast|https://www.spreaker.com/show/the-elysium-project|
 ||The Henry Rios Mysteries Podcast|https://audioboom.com/channels/4966379.rss|http://michaelnavawriter.com/podcast/episodes/|
 |⭐️|The Gods We Belong To|https://feeds.buzzsprout.com/693733.rss||
 ||The Lovecraft Covenant|https://audioboom.com/channels/4916853.rss|https://audioboom.com/channels/4916853|
@@ -254,7 +254,7 @@ Also includes noir and docu-drama. Many of these have sci-fi or horror elements.
 ||The Hidden People|https://daytonwritersmovement.podbean.com/feed.xml|https://hiddenpeoplepodcast.com|
 ||The Loyalists|http://feeds.soundcloud.com/users/soundcloud:users:337457535/sounds.rss|https://podcasts.apple.com/us/podcast/the-loyalists/id1312563010|
 |⭐️|The Walk|http://feeds.megaphone.fm/thewalk|www.panoply.fm|
-|⭐️|We&amp;apos;re Alive|http://feeds.feedburner.com/itpc/wwwwaylandws/Wayland_Productions/Were_Alive_-_Podcast/rssxml|https://www.podcastone.com/were-alive-a-zombie-story-of-survival|
+|⭐️|We're Alive|http://feeds.feedburner.com/itpc/wwwwaylandws/Wayland_Productions/Were_Alive_-_Podcast/rssxml|https://www.podcastone.com/were-alive-a-zombie-story-of-survival|
 
 ## Urban Fantasy/Cryptids/Monsters/Superheroes
 
@@ -274,7 +274,7 @@ Also includes noir and docu-drama. Many of these have sci-fi or horror elements.
 ||Ozark Whispers|http://feeds.soundcloud.com/users/soundcloud:users:382383587/sounds.rss|http://www.ozarkwhispers.com|
 ||SCP: Find Us Alive|https://anchor.fm/s/c6cb5b8/podcast/rss|https://anchor.fm/site-107|
 ||Slumberland|https://slumberland.libsyn.com/rss|https://bit.ly/2WiCb8n|
-|⭐️|Smoke &amp; Mirrors|http://smokeandmirrorsaudio.com/feed/podcast/smokeandmirrors|http://smokeandmirrorsaudio.com/|
+|⭐️|Smoke & Mirrors|http://smokeandmirrorsaudio.com/feed/podcast/smokeandmirrors|http://smokeandmirrorsaudio.com/|
 ||The Far Meridian|https://thefarmeridian.libsyn.com/rss|https://www.thefarmeridian.com/feed/|
 ||The Godshead Incidental|https://godsheadincidental.com/feed/|https://godsheadincidental.com|
 ||The Haunted Hour|https://anchor.fm/s/86619c8/podcast/rss|https://www.elinorbonifant.com/|
@@ -299,7 +299,7 @@ Shows from different generes that are weird and don't really fit well in other c
 |Fav|Title|RSS Feed|Website|
 |---|-----|--------|-------|
 |⭐️|Adventures in New America|http://feeds.nightvalepresents.com/adventuresinnewamerica|http://adventuresinnewamerica.com/|
-||Alice Isn&amp;apos;t Dead|http://feeds.nightvalepresents.com/aliceisntdeadpodcast|http://www.aliceisntdead.com|
+||Alice Isn't Dead|http://feeds.nightvalepresents.com/aliceisntdeadpodcast|http://www.aliceisntdead.com|
 ||Caledonian Gothic|https://caledoniangothic.libsyn.com/rss|http://caledoniangothic.libsyn.com/website|
 |⭐️|CARAVAN|https://caravanradio.libsyn.com/rss|http://whisperforge.org/caravan|
 ||Dining in the Void|http://rss.castbox.fm/everest/51d7ba4865404a0ba83d50c9d3dfcc91.xml|https://castbox.fm/ch/1154942|
@@ -307,7 +307,7 @@ Shows from different generes that are weird and don't really fit well in other c
 ||Phantomwise|https://phantomwise.libsyn.com/rss|http://www.phantomwisepod.com|
 ||Sir/Real|https://feeds.buzzsprout.com/1056406.rss||
 |⭐️|The Deep Vault|http://feeds.soundcloud.com/users/soundcloud:users:243532459/sounds.rss|http://www.deepvaultpodcast.com/|
-|⭐️|The Milkman of St. Gaff&amp;apos;s|https://feeds.blubrry.com/feeds/howiemilkman.xml|https://feeds.blubrry.com/feeds/howiemilkman.xml|
+|⭐️|The Milkman of St. Gaff's|https://feeds.blubrry.com/feeds/howiemilkman.xml|https://feeds.blubrry.com/feeds/howiemilkman.xml|
 ||The Minute Hour|http://feeds.soundcloud.com/users/soundcloud:users:119391670/sounds.rss|http://theminutehour.com|
 ||Welcome to Night Vale|http://feeds.nightvalepresents.com/welcometonightvalepodcast|http://welcometonightvale.com|
 ||Within the Wires|http://feeds.nightvalepresents.com/withinthewires|http://withinthewires.com/|
@@ -372,7 +372,7 @@ Includes shows where all the stories are set in a common universe. Generally, th
 ||Dreamnasium sci-fi audio drama anthology|http://www.pendantaudio.com/Dreamnasium.xml|http://www.pendantaudio.com/|
 ||In Another Room|https://feeds.megaphone.fm/inanotherroom|www.violethourmedia.com/in-another-room|
 ||Inside Fictions|https://insidefictions.libsyn.com/rss|http://insidefictions.libsyn.com/podcast|
-||Jones &amp; Woolf|https://feeds.buzzsprout.com/513157.rss|http://jonesandwoolf.buzzsprout.com|
+||Jones & Woolf|https://feeds.buzzsprout.com/513157.rss|http://jonesandwoolf.buzzsprout.com|
 ||Lonesome Pine Podcast|https://audioboom.com/channels/4930509.rss|https://audioboom.com/channels/4930509|
 ||Motel Americana|https://motelamericanapodcast.com/feed/podcast/|https://motelamericanapodcast.com|
 |⭐️|Old Gods of Appalachia|https://rss.acast.com/old-gods-of-appalachia|http://www.oldgodsofappalachia.com|
